@@ -36,18 +36,51 @@
 
 ---
 
-## 🔐 Cybersecurity Tools
 
-I'm exploring tools across different areas of cybersecurity and security testing.
+## 🌐 Web Development
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend technologies" />
+</p>
+
+### Database & Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Databases and development tools" />
+</p>
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="Programming languages" />
+</p>
+
+
+
+
+
+
+
+
+## 🔐 Cybersecurity & Security Tools
+
+I'm exploring tools across different areas of cybersecurity, network analysis, and web application security.
 
 **Reconnaissance & OSINT:**  
 Nmap, Amass, Subfinder, theHarvester, Shodan, Maltego
 
-**Web Application Testing:**  
+**Web Application Security Testing:**  
 Burp Suite, OWASP ZAP, FFUF, Gobuster, SQLmap, Nikto, Wfuzz
 
-**Exploitation & Network Analysis:**  
-Metasploit, Wireshark, tcpdump, Netcat
+**Exploitation:**  
+Metasploit
+
+**Network Analysis:**  
+Wireshark, tcpdump, Netcat
 
 **Password Auditing & Cryptography:**  
 Hashcat, John the Ripper, Hydra, CyberChef
@@ -58,16 +91,26 @@ Aircrack-ng
 **Reverse Engineering & Debugging:**  
 Ghidra, GDB
 
-**Platforms & Virtualization:**  
+**Operating Systems & Virtualization:**  
 Kali Linux, Parrot OS, VirtualBox, VMware
 
----
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Featured Projects
 
 ### 📖 Smart Dictionary Browser Extension
 
 A browser extension integrated with the Gemini API that provides instant word definitions, Bangla translations, and pronunciations using custom keyboard shortcuts.
+
+[View Repository →](https://github.com/md-tanjim/AI-dictionary-extension-v2)
 
 ### 🤖 AI Grammar Correction Discord Bot
 
