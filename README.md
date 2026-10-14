@@ -23,48 +23,45 @@
 - 🎓 I'm a Computer Science and Engineering student.
 - 💻 I'm interested in full-stack web development and software engineering.
 - 🔐 I'm exploring cybersecurity, network analysis, and web application security.
-- 🌱 I'm continuously learning through practical projects and hands-on experimentation.
+- 🌱 I enjoy learning through practical projects and hands-on experimentation.
 - 📫 Reach me at **mdtanjim1337@gmail.com**
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,mongodb,python,git,github,linux" alt="Development technologies" />
-</p>
-
----
-
-
 ## 🌐 Web Development
 
-### Frontend
+- 💻 I'm exploring modern web development with **React, Next.js, and TypeScript**.
+- 🛠️ I'm building web applications using **Next.js, Tailwind CSS, and Node.js**.
+- 🏋️ I've worked on **FitLog**, a fitness and workout tracking application.
+- 📖 I've built a **Smart Dictionary Browser Extension** using the Gemini API, featuring definitions, Bangla translations, and pronunciations.
+- 🧩 I'm exploring API integration and building interactive web applications.
+- 🌱 I'm continuously improving my frontend, backend, and full-stack development skills.
+
+### 🎨 Frontend
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
 </p>
 
-### Backend
+### ⚙️ Backend
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python" alt="Backend technologies" />
 </p>
 
-### Database & Development Tools
+### 🗄️ Database & Development Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Databases and development tools" />
 </p>
 
-### Programming Languages
+### 💻 Other Programming Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp" alt="Programming languages" />
 </p>
 
-
-
-
-
-
-
+---
 
 ## 🔐 Cybersecurity & Security Tools
 
@@ -94,15 +91,7 @@ Ghidra, GDB
 **Operating Systems & Virtualization:**  
 Kali Linux, Parrot OS, VirtualBox, VMware
 
-
-
-
-
-
-
-
-
-
+---
 
 ## 🚀 Featured Projects
 
@@ -110,11 +99,17 @@ Kali Linux, Parrot OS, VirtualBox, VMware
 
 A browser extension integrated with the Gemini API that provides instant word definitions, Bangla translations, and pronunciations using custom keyboard shortcuts.
 
+**Technologies:** Browser extension APIs, Gemini API
+
 [View Repository →](https://github.com/md-tanjim/AI-dictionary-extension-v2)
 
 ### 🤖 AI Grammar Correction Discord Bot
 
 A Python-based Discord bot using `discord.py` and AI model APIs to provide real-time grammatical corrections to messages.
+
+**Technologies:** Python, discord.py, AI APIs
+
+<!-- Add your repository link here when available. -->
 
 ### 💻 DevStack
 
@@ -125,6 +120,8 @@ Explore my development project and its source code.
 ### 🏋️ FitLog
 
 A fitness and workout tracking project built with modern web technologies.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS
 
 [View Repository →](https://github.com/md-tanjim/FitLog-project)
 
