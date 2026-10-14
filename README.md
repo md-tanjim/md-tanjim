@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="MD Tanjim Hosain — CSE Student and Aspiring Full-Stack Developer"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Tanjim Hosain</h1>
 
 <h3 align="center">CSE Student | Aspiring Full-Stack Developer</h3>
